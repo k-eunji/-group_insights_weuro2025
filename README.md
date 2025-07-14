@@ -1,6 +1,7 @@
 # Tactical Insights from UEFA Women’s EURO 2025: 8 Quarterfinal Teams Analyzed
 
 This project explores which teams advanced to the quarter-finals of UEFA Women’s EURO 2025. By looking at key metrics and match data, I analyzed the playing style of each team.
+
 ---
 
 ## Key Metrics Analyzed
